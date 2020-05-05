@@ -1,8 +1,7 @@
 # projects
 
-This is a collection of pages that I have copied in order to develop and practice my HTML/CSS skills.
-I do NOT have any copyrights for any of these web pages.
-
-The only role is for learning and practicing
+This is a collection of pages that I have copied in order to develop and practice my HTML/CSS skills. 
+Any information on the site does not belong to me.
+All rights are of the original owners of the web sites.
 
 
